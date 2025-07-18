@@ -4,8 +4,23 @@
 </div>
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/lhyz1024"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlhyz1024&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+<img src="https://komarev.com/ghpvc/?username=lhyz1024&label=Views&color=orange&style=flat" alt="访问量统计" />
 </p>
+<table>
+  
+<tr><td>
 
+### 🤺 About Me
+
+<img align="right" width="90" src="https://rustacean.net/assets/rustacean-orig-noshadow.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是lhyz1024。热爱编程、摄影。</p>
+<p>&emsp;&emsp;热爱计算机科学和操作系统研发事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+</td></tr>
+<tr><td>
+<img align="right" width="88" src="https://icon.icepanel.io/Technology/svg/NixOS.svg" />
 <h4>编程语言：</h4>
 <p align="left">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg" alt="Rust" width="80" height="80" title="Rust">
@@ -25,8 +40,18 @@
   <img alt="Linux" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" height="25" />
   <img alt="NixOS" src="https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white">
 </p>
+</td></tr>
+<tr><td>
 <div align="left">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lhyz1024" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhyz1024&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
+</td></tr>
+<tr><td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhyz1024/lhyz1024/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lhyz1024/lhyz1024/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lhyz1024/lhyz1024/output/github-contribution-grid-snake.svg">
+</picture>
+</td></tr>
